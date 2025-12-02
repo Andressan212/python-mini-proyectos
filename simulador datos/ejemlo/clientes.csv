@@ -1,0 +1,51 @@
+﻿id,nombre,telefono,direccion,email
+1,Guillermina Gomez,+54 9 3260 0748,"Av. Merlo N° 998 Torre 1 Dto. 9, Río Gallegos 9400, Santa Cruz",luciano-benjaminfernandez@example.org
+2,Thiago Emanuel Flores Rivero,+54 9 3278 1202,"Calle Viedma N° 68 Torre 3 Dto. 2, Rosario 2000, Santa Fe",valdezmateo-benjamin@example.org
+3,Thiago Benjamin Enzo Gonzalez,+54 15 2902 3027,"Avenida Merlo N° 9416 Torre 6 Dto. 6, Neuquén 8300, Neuquén",sotoabril@example.org
+4,Thiago Gonzalez Lopez,+54 15 2716 5018,"Camino Neuquén N° 39, Ushuaia 9410, Tierra del Fuego",bmartinez@example.net
+5,Lorenzo Martinez,+54 9 3489 3384,"Diagonal J.B. Alberdi N° 635 Piso 7 Dto. 2, Santa Rosa 6300, La Pampa",guzmanisabella@example.org
+6,Sebastian Caceres Romero,+54 15 2545 5160,"Calle Saavedra N° 464 Local 4, Rawson 9103, Chubut",ambar59@example.org
+7,Dr(a). Lautaro Nuñez,+54 9 3891 9965,"Avenida Mendoza N° 98, Ushuaia 9410, Tierra del Fuego",bsosa@example.org
+8,Matilda Castro Juarez,+54 9 3289 3908,"Boulevard Pte. Perón N° 219 Dto. 2, La Rioja 5300, La Rioja",njuarez@example.net
+9,Mateo Benjamin Fernandez,+54 9 3734 0642,"Av. 7 N° 51, San Miguel de Tucumán 4000, Tucumán",lautaro-nicolas15@example.org
+10,Abigail Isabella Olivera Gonzalez,+54 9 3892 4936,"Camino Entre Ríos N° 32 Dto. 7, La Plata 1900, Buenos Aires",sosalorenzo@example.com
+11,Lucio Muñoz Torres,+54 15 2604 9155,"Calle J.M. de Rosas N° 501 Dto. 7, La Rioja 5300, La Rioja",hgonzalez@example.net
+12,Sr(a). Maria Victoria Carrizo,+54 9 3726 4468,"Avenida Belgrano N° 15 Piso 5 Dto. 2, Comodoro Rivadavia 9000, Chubut",juliantorres@example.net
+13,Sr(a). Thiago Benjamin Ortiz,+54 9 3609 3546,"Diagonal Omar Nuñez N° 4118 Dto. 5, Chilecito 5360, La Rioja",sjuarez@example.com
+14,Agustina Joaquina Farias,+54 9 3633 5248,"Avenida San Miguel de Tucumán N° 471, Viedma 8500, Río Negro",malenagutierrez@example.com
+15,Santino Benjamin Diaz,+54 15 2720 3992,"Av. San Luis N° 895 Oficina 3, Rosario 2000, Santa Fe",etorres@example.com
+16,Bianca Vega,+54 15 2568 4692,"Diag. Córdoba N° 4495, Santa Rosa 6300, La Pampa",hgomez@example.net
+17,Francisco Guillermina Franco,+54 15 2876 7328,"Diagonal 3 N° 76, Santiago del Estero 4200, Santiago del Estero",isabellacastillo@example.com
+18,Delfina Medina Alvarez,+54 9 3654 6581,"Camino Santa Cruz N° 791, Neuquén 8300, Neuquén",oguzman@example.org
+19,Sofia Lautaro Rodriguez,+54 9 3585 3142,"Avenida Buenos Aires N° 7050, Corrientes 3400, Corrientes",biancaruiz@example.net
+20,Dr(a). Maite Diaz,+54 9 3406 3255,"Boulevard 3 N° 888, San Ferando del Valle de Catamarca 4700, Catamarca",benjaminflores@example.org
+21,Priscila Ferreyra,+54 15 2973 0318,"Calle Santa Rosa N° 371 Piso 6 Dto. 6, San Miguel de Tucumán 4000, Tucumán",francesca47@example.com
+22,Dr(a). Josefina Rivero,+54 9 3630 1173,"Av. Resistencia N° 6985 Piso 8 Dto. 8, Rosario 2000, Santa Fe",bautista67@example.org
+23,Lucía Gonzalez Coronel,+54 15 2501 2563,"Avenida Santa Rosa N° 8017 Piso 5 Dto. 9, Santa Fe 3000, Santa Fe",rodriguezmaximiliano@example.com
+24,Julia Catalina Gonzalez Ramirez,+54 15 2449 0852,"Diagonal Malvinas Argentinas N° 502 Piso 2 Dto. 4, Paraná 3100, Entre Ríos",plucero@example.com
+25,Gael Isabella Peralta Sosa,+54 15 2171 4531,"Avenida Jujuy N° 773, Mendoza 5500, Mendoza",djuarez@example.net
+26,Emilia Juan Cruz Ruiz,+54 9 3336 8824,"Diagonal Santa Rosa N° 33, Salta 4400, Salta",mateo-benjamin43@example.org
+27,Mateo Mia Medina,+54 9 3173 3769,"Calle Mitre N° 8441 Dto. 4, Santa Fe 3000, Santa Fe",molinavalentina@example.com
+28,Justina Rodriguez,+54 15 2407 3075,"Av. San Juan N° 38, Córdoba 5000, Córdoba",felipe11@example.net
+29,Sebastian Gomez Fernandez,+54 9 3358 7613,"Av. Alem N° 7580, Formosa 3600, Formosa",eramirez@example.net
+30,Benjamin Guadalupe Gonzalez Fernandez,+54 15 2906 8047,"Blv. Alvear N° 92 Torre 9 Dto. 4, Río Gallegos 9400, Santa Cruz",tomaslopez@example.net
+31,Mateo Benjamin Mateo Mendez,+54 15 2389 4143,"Diag. San Luis N° 82, Mar del Plata 7600, Buenos Aires",isabelladiaz@example.org
+32,Sofia Belen Paez Benitez,+54 15 2382 6726,"Av. Rosario N° 932, Santa Fe 3000, Santa Fe",luciana78@example.org
+33,Emilia Catalina Romero,+54 15 2452 2542,"Boulevard Resistencia N° 585, Neuquén 8300, Neuquén",amparo51@example.com
+34,Francisco Bruno Gonzalez Rodriguez,+54 9 3210 8332,"Diagonal 2 N° 144 Oficina 8, Resistencia 3500, Chaco",garciaemanuel@example.com
+35,Manuel Ramirez,+54 9 3174 7697,"Diagonal 4 N° 5279 Torre 6 Dto. 6, San Ferando del Valle de Catamarca 4700, Catamarca",bpereyra@example.org
+36,Joaquin Olivera Garcia,+54 9 3129 6704,"Av. Viedma N° 6823, Rosario 2000, Santa Fe",ososa@example.net
+37,Emilia Lucía Rodriguez,+54 9 3140 2290,"Boulevard G. Brown N° 141 Local 74, Ushuaia 9410, Tierra del Fuego",martinaramirez@example.org
+38,Dr(a). Ana Paula Roldan,+54 9 3733 7056,"Diagonal San Miguel de Tucumán N° 660 Local 7, Formosa 3600, Formosa",clara29@example.org
+39,Dr(a). Ciro Barrios,+54 15 2268 0052,"Camino 158 B N° 27, Merlo 5881, San Luis",mfranco@example.com
+40,Milagros Molina,+54 15 2276 3625,"Av. Saavedra N° 79, Rosario 2000, Santa Fe",toledomilo@example.com
+41,Luciana Benjamin Ayala,+54 9 3973 9284,"Calle 5 N° 58, Santa Rosa 6300, La Pampa",isosa@example.com
+42,Jazmín Benjamin Paez Navarro,+54 15 2809 7348,"Camino Jujuy N° 676, Paraná 3100, Entre Ríos",herreramilagros@example.net
+43,Bautista Rodriguez Ramirez,+54 9 3803 3058,"Diagonal J.M. de Rosas N° 7414 Dto. 1, Santa Rosa 6300, La Pampa",jmendez@example.com
+44,Josefina Ambar Martinez,+54 9 3674 4860,"Calle Neuquén N° 8197 Local 5, Rawson 9103, Chubut",vrodriguez@example.org
+45,Victoria Muñoz,+54 15 2994 1712,"Calle La Pampa N° 36 Piso 8 Dto. 4, Rosario 2000, Santa Fe",catalina47@example.org
+46,Thiago Nahuel Ruiz Pereyra,+54 15 2395 9585,"Calle Bahía Blanca N° 988, Córdoba 5000, Córdoba",isabella45@example.com
+47,Martina Ludmila Aguero,+54 9 3583 4943,"Avenida Alvear N° 65, Río Gallegos 9400, Santa Cruz",nicolas61@example.com
+48,Julieta Ruiz,+54 9 3737 9658,"Av. San Luis N° 314 Dto. 9, Posadas 3300, Misiones",sosabautista@example.org
+49,Martina Benitez Carrizo,+54 15 2999 1059,"Calle Constitución N° 346, Córdoba 5000, Córdoba",jsanchez@example.net
+50,Juana Tiziano Benjamin Aguirre,+54 9 3949 0068,"Avenida 7 N° 5816, Ushuaia 9410, Tierra del Fuego",sgonzalez@example.com
